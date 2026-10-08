@@ -241,4 +241,4 @@ This repository serves as the official landing page for Rockbox. The software is
 **Get the most recent version of Rockbox today!**
 
 ---
-**Last updated:** 2026-10-08 16:18:59 UTC
+**Last updated:** 2026-10-08 21:56:47 UTC
